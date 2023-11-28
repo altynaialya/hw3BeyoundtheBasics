@@ -1,0 +1,100 @@
+header {
+    color: white;
+    background-color: darkorange;
+    padding: 30px;
+}
+
+
+header {
+    display: block;
+}
+
+body {
+    background-color: lightblue;
+    font-size: 20px;
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+ol {
+    margin-left: 20px;
+}
+ol {
+    background-color: lightslategrey;
+}
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+ol li {
+    padding: 10px;
+    border-bottom: solid 1px lightcoral;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ol {
+    list-style-type: decimal;
+}
+
+tr th {
+    background-color: deepskyblue;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+tr td:first-child {
+    font-weight: bold;
+}
+footer {
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    border: solid 10px darkorange;
+    padding: 20px;
+    margin: 20px;
+}
+footer {
+    display: block;
+}
+body {
+    background-color: lightblue;
+    font-size: 20px;
+    margin: 0;
+}
+body {
+    display: block;
+    margin: 8px;
+    
+}
